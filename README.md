@@ -225,7 +225,7 @@ This will install all required libraries from the `package.json` file.
 
 ### 6.2 **Clone the Repository**
 ```bash
-git clone https://github.com/anishiit/chat-frontend.git
+git clone https://github.com/sinha004/TalkSphere
 ```
 
 ### 6.3 **Install Dependencies**
