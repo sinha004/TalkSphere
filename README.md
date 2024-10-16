@@ -8,9 +8,8 @@
 ---
 
 ## 👨‍💻 **Developer Info**
-- **Name**: Anish Kumar Singh
+- **Name**: Pulkit Sinha
 - **University**: Indian Institute of Technology (IIT) Dhanbad
-- **Department**: Environmental Science & Engineering
 
 
 
