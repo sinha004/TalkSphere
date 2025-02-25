@@ -89,30 +89,6 @@ graph TD;
 
 ---
 
-## 🖥️ **Screenshots**
-
-- **Chat Interface**  
-  ![Chat Interface](./public/assets/personal.png)
-
-- **Group Chat Interface**  
-  ![Group Chat Interface](./public/assets/grp.png)
-
-- **Video Call Interface**  
-  ![Video Call Interface](./public/assets/videoCall.png)
-
-- **AiChat Bot Interface**  
-  ![AiChat Bot Interface](./public/assets/chatBot.png)
-
-
-- **Small Screen Interface**  
-  ![Small Screen Call](./public/assets/smallScrn.jpg)
-
-- **Connection Interface**  
-  ![Connection Interface](./public/assets/connection.png)
-
----
-
-
 ## Chat Backend
 
 This repository contains the backend code for the chat application.
