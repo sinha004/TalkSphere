@@ -5,7 +5,7 @@
 **Live Demo**: [Explore the App Here](https://unrivaled-melba-047ef2.netlify.app/)  
 ⚠️ *Backend deployed on Render (free tier, may take a few seconds to load)*
 
----s
+---
 
 ## 👨‍💻 **Developer Info**
 - **Name**: Pulkit Sinha
