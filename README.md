@@ -9,7 +9,7 @@
 
 ## 👨‍💻 **Developer Info**
 - **Name**: Pulkit Sinha
-- **University**: Indian Institute of Technology (IIT) Dhanbad
+- **University**: Indian Institute of Technology (Indian School of Mines) Dhanbad
 
 
 
