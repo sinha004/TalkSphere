@@ -241,6 +241,6 @@ The application will run on `http://localhost:3000`.
 
 ## 8. **Conclusion**
 
-This system design outlines the architecture, technologies, and workflows involved in the frontend development of the real-time chat application. The use of modern libraries and frameworks ensures a high-performance, secure, and user-friendly chat experience. For any questions or contributions, feel free to submit issues or pull requests to the repository.
+This system design outlines the architecture, technologies, and workflows involved in the frontend development of the real-time chat application. The use of modern libraries and frameworks ensures a high-performance, secure, and user-friendly chat experience. For any questions or contributions, feel free to submit issues or pull requests to the repository..
 
 ---
